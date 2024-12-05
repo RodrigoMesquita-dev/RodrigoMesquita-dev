@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") I'm from Brazil
 
-:computer: I'm a bacharel _information systems_!
+:computer:  I'm a bachelor's graduate in _Information Systems_!
 
-:briefcase: I work as a *backend* software developer creating applications using node, typescript, express, and sometimes nest and python.
+:briefcase:  I work as a _backend_ software developer, creating applications using Node.js, TypeScript, Express, and occasionally NestJS and Python.
 
-:books: I also like studying front-end, my most familiarized framework is vue with tailwind css
+:books:  I also enjoy studying front-end development. The framework I'm most familiar with is Vue, paired with Tailwind CSS.
 
-And i have a deep curiosity about machine learning and AWS, so i study then in my free time as well
+:robot: I'm deeply curious about Machine Learning and AWS, so I study them in my free time as well.
 
 ## Skills
 
