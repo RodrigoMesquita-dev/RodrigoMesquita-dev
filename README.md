@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 :robot: I'm deeply curious about Machine Learning and AWS, so I study them in my free time as well.
 
+## Contact
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoMesquita-dev) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-mesquita-3915b3182/)
+
+
 ## Skills
 
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
