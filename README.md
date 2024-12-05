@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 
 ## I'm Rodrigo Mesquita!
 
-I'm a bacharel in _information systems_ i work as a *backend* software developer creating applications using <span style="color:green">node</span>
+I'm a bacharel in _information systems_ i work as a *backend* software developer creating applications using node, typescript, express, and sometimes nest and python.
+
+I also like studying front-end, my most familiarized framework is vue with tailwind css
+
+And i have a deep curiosity about machine learning and AWS, so i study then in my free time as well
+
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") I'm from Brazil
+
+![Wallpaper](images/coding-wallpaper.png)
 
 <!--
 ### "You will never find time for anything. Is you want time you must make it
